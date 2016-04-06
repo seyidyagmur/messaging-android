@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bitirme</string>
+    <string name="action_settings">Settings</string>
+    <string name="register">register</string>
+    <string name="enable_p2p_button">P2P Aç/Kapa</string>
+    <string name="discover_peers_button">Tara</string>
+    <string name="connect_peer_button">Baglan</string>
+    <string name="disconnect_peer_button">Kopart</string>
+    <string name="start_chat_button">Sohbete Basla</string>
+    <string name="empty"></string>
+    <string name="yes">evet</string>
+    <string name="no">hayir</string>
+    <string name="client_text">Chata baslamak icin sohbete baslay tikla!</string>
+    <string name="empty_message">Aygit bulunamadi!.P2P acik oldugundan emin olun</string>
+    <string name="p2p_off_warning">P2P aç!</string>
+    <string name="group_owner_text">"Grup sahibi mi ?"</string>
+    <string name="label_me">Ben</string>
+    <string name="label_peers">AYGITLAR</string>
+    <string name="disconnect">kop</string>
+    <string name="about">hakkinda</string>
+    <string name="help">yardim</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
